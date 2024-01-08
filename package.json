@@ -1,12 +1,10 @@
-
 {
   "engines": {
     "node": "20.9.0"
   },
-
   "name": "major-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "```\r Majorproject\r ├─ app.js\r ├─ Init\r │  ├─ data.js\r │  └─ index.js\r ├─ models\r │  └─ listing.js\r ├─ package-lock.json\r └─ package.json",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,5 +32,6 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^8.0.0",
     "starability": "^2.4.0"
-  }
+  },
+  "devDependencies": {}
 }
